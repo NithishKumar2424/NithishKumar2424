@@ -242,17 +242,7 @@ messaging: [SNS, SQS]
 
 ---
 
-<div align="center">
 
-## 📊 **GitHub Statistics**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -402,62 +392,58 @@ void onAccidentDetected() {
 
 <div align="center">
 
-## 💼 **Professional Impact & Achievements**
-
-</div>
+## 💼 **Professional Journey & Impact**
 
 <table>
 <tr>
 <td align="center" width="25%">
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" width="80px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="70px"/>
 <br/><br/>
-<b>Teaching Excellence</b>
+<b>🎯 Master Educator</b>
 <br/><br/>
-<code>50+ Students</code>
+<sub>50+ Students Taught</sub>
 <br/>
-<sub>Web Design & UX @ NEU</sub>
+<sub>Web Dev & UX @ NEU</sub>
 <br/>
-<sub>⭐⭐⭐⭐⭐</sub>
+<code>⭐⭐⭐⭐⭐</code>
 </td>
 <td align="center" width="25%">
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="70px"/>
 <br/><br/>
-<b>Performance Boost</b>
+<b>⚡ Performance King</b>
 <br/><br/>
-<code>+15% @ NTT</code>
+<sub>+15% System Speed</sub>
 <br/>
-<sub>System Optimization</sub>
+<sub>@ NTT Data</sub>
 <br/>
-<sub>⚡ Lightning Fast</sub>
+<code>🚀 Lightning Fast</code>
 </td>
 <td align="center" width="25%">
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="70px"/>
 <br/><br/>
-<b>AI/ML Training</b>
+<b>🤖 AI Trainer</b>
 <br/><br/>
-<code>10,000+ Images</code>
+<sub>10,000+ Images</sub>
 <br/>
-<sub>Samsung SEED Lab</sub>
+<sub>@ Samsung SEED Lab</sub>
 <br/>
-<sub>🤖 ML Accuracy +18%</sub>
+<code>ML Accuracy +18%</code>
 </td>
 <td align="center" width="25%">
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="70px"/>
 <br/><br/>
-<b>Academic Excellence</b>
+<b>🎓 Honor Student</b>
 <br/><br/>
-<code>GPA: 3.8/4.0</code>
+<sub>GPA: 3.8/4.0</sub>
 <br/>
 <sub>MS @ Northeastern</sub>
 <br/>
-<sub>🎯 Expected Dec 2026</sub>
+<code>🎯 Expected Dec 2026</code>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -549,13 +535,7 @@ print(me.daily_routine())
 
 ---
 
-<div align="center">
 
-## 📈 **Contribution Activity**
-
-[![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)](https://github.com/YOUR_USERNAME)
-
-</div>
 
 ---
 
