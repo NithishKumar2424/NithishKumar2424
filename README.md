@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20Kumar%20K%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Cloud%20Architect%20|%20Teaching%20Assistant&descAlignY=51&descAlign=50"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20Kumar%20K%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Cloud%20Architect%20|%20Software%20Engineer&descAlignY=51&descAlign=50"/>
 
-<!-- Dynamic Typing Animation -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=MS+in+Information+Systems+%40+Northeastern+University;Building+Scalable+Cloud+Solutions+%26+Beautiful+UIs;Passionate+about+Teaching+%26+Mentoring+Developers;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=MS+in+Information+Systems+%40+Northeastern+University;Building+Scalable+Cloud+Solutions+%26+Beautiful+UIs;Full-Stack+Developer+%7C+AWS+Cloud+Architect;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
@@ -51,13 +51,13 @@ const nithish: Developer = {
     name: "Nithish Kumar K M",
     location: "Boston, MA 🇺🇸",
     role: [
-        "👨‍🏫 Teaching Assistant @ Northeastern University",
         "💼 Former Senior Associate @ NTT Data",
-        "🔬 Former Software Engineer @ Samsung SEED Lab"
+        "🔬 Former Software Engineer @ Samsung SEED Lab",
+        "🎓 MS Student @ Northeastern University"
     ],
     code: ["JavaScript", "Python", "Java", "C#", "C++", "SQL"],
     architecture: ["AWS", "Docker", "Kubernetes", "Microservices", "REST APIs"],
-    currentMission: "Building scalable, secure cloud applications while mentoring the next generation of developers"
+    currentMission: "Building scalable, secure cloud applications and mastering full-stack development"
 };
 
 // My Journey
@@ -69,7 +69,6 @@ const educationJourney = {
 
 // Fun Stats
 const stats = {
-    studentsImpacted: "50+ future developers 👨‍🎓",
     imagesAnnotated: "10,000+ for AI/ML models 🤖",
     performanceBoost: "15% system optimization @ NTT 🚀",
     codeQuality: "20% faster development cycles ⚡",
@@ -83,30 +82,147 @@ console.log("Thanks for visiting! Let's build something amazing together 🚀");
 
 <div align="center">
 
-## 🚀 **My Journey: Electronics → Software → Cloud → Teaching**
+## 🏁 **My Career Race: Electronics → Software → Full-Stack → Cloud Architect**
+
+### Click ▶️ PLAY to Start My Journey! 🏎️
 
 </div>
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1a1b27','primaryTextColor':'#58a6ff','primaryBorderColor':'#58a6ff','lineColor':'#58a6ff','secondaryColor':'#161b22','tertiaryColor':'#0d1117','background':'#0d1117','mainBkg':'#0d1117','secondBkg':'#161b22'}}}%%
-timeline
-    title 🎯 My Tech Evolution
-    2018-2022 : 🎓 Bachelor's in Electronics & Communication
-              : 🔧 Built IoT Accident Detection System
-              : 📡 Mastered embedded systems & sensors
-    2022-2023 : 💼 Joined Samsung SEED Lab
-              : 🤖 Annotated 10K+ images for AI training
-              : 📊 Improved ML model accuracy by 18%
-              : 🐍 Mastered Python & data annotation tools
-    2023-2024 : 🚀 Senior Associate @ NTT Data
-              : 💻 Built scalable .NET applications
-              : ⚡ Boosted system performance by 15%
-              : 🎨 Created reusable UI components
-    2024-Present : 🎓 MS @ Northeastern University
-                 : 👨‍🏫 Teaching Assistant (Web Dev & UX)
-                 : ☁️ Mastering AWS & Cloud Architecture
-                 : 🚀 Building full-stack MERN applications
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF6B6B','secondaryColor':'#4ECDC4','tertiaryColor':'#FFE66D','primaryBorderColor':'#FF6B6B','lineColor':'#95E1D3','fontSize':'16px'}}}%%
+graph LR
+    START[🏁 START LINE<br/>2018] -->|🏎️| A[🔌 Electronics<br/>Engineering<br/>IoT & Embedded]
+    A -->|💨 Speed Boost!| B[🤖 AI/ML Engineer<br/>Samsung SEED<br/>10K+ Images]
+    B -->|🔥 Turbo Mode!| C[💻 Full-Stack Dev<br/>NTT Data<br/>.NET + React]
+    C -->|⚡ Nitro Boost!| D[☁️ Cloud Architect<br/>AWS Master<br/>Serverless Pro]
+    D -->|🚀 Maximum Speed!| E[🎯 Software Engineer<br/>Building at Scale<br/>2024+]
+    E --> FINISH[🏆 FINISH LINE<br/>Success!]
+    
+    style START fill:#32CD32,stroke:#32CD32,stroke-width:4px,color:#fff
+    style A fill:#FF6B6B,stroke:#FF6B6B,stroke-width:3px,color:#fff
+    style B fill:#4ECDC4,stroke:#4ECDC4,stroke-width:3px,color:#fff
+    style C fill:#FFE66D,stroke:#FFE66D,stroke-width:3px,color:#000
+    style D fill:#FF69B4,stroke:#FF69B4,stroke-width:3px,color:#fff
+    style E fill:#9370DB,stroke:#9370DB,stroke-width:3px,color:#fff
+    style FINISH fill:#FFD700,stroke:#FFD700,stroke-width:4px,color:#000
 ```
+
+<div align="center">
+
+### 🏎️ **Race Track Progress - Career Speedometer**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<h3>🏁</h3>
+<b>LAP 1</b><br/>
+<sub>🔌 Electronics Engineer</sub><br/>
+<sub>⚡ IoT & Embedded Systems</sub><br/>
+<br/>
+<code>▰▰▰▰▱</code><br/>
+<sub>2018-2022 ✓</sub>
+</td>
+<td align="center" width="20%">
+<h3>🏎️</h3>
+<b>LAP 2</b><br/>
+<sub>🤖 AI/ML Specialist</sub><br/>
+<sub>🐍 Python + Data Science</sub><br/>
+<br/>
+<code>▰▰▰▰▱</code><br/>
+<sub>2022-2023 ✓</sub>
+</td>
+<td align="center" width="20%">
+<h3>🏎️💨</h3>
+<b>LAP 3</b><br/>
+<sub>💻 Full-Stack Developer</sub><br/>
+<sub>⚛️ React + .NET</sub><br/>
+<br/>
+<code>▰▰▰▰▱</code><br/>
+<sub>2023-2024 ✓</sub>
+</td>
+<td align="center" width="20%">
+<h3>🏎️🔥</h3>
+<b>LAP 4</b><br/>
+<sub>☁️ Cloud Architect</sub><br/>
+<sub>🚀 AWS + DevOps</sub><br/>
+<br/>
+<code>▰▰▰▰▰</code><br/>
+<sub>2024+ 🔄</sub>
+</td>
+<td align="center" width="20%">
+<h3>🏆</h3>
+<b>VICTORY</b><br/>
+<sub>🎯 Software Engineer</sub><br/>
+<sub>🌟 Building at Scale</sub><br/>
+<br/>
+<code>▰▰▰▱▱</code><br/>
+<sub>In Progress...</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎮 **Power-Ups Collected During the Race**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="70px"/>
+<br/><br/>
+<b>⚡ Speed Boost</b>
+<br/><br/>
+<sub>+15% Performance</sub>
+<br/>
+<sub>System Optimization</sub>
+<br/>
+<code>🏎️ NTT Data</code>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="70px"/>
+<br/><br/>
+<b>🤖 AI Power-Up</b>
+<br/><br/>
+<sub>10,000+ Images Trained</sub>
+<br/>
+<sub>ML Accuracy +18%</sub>
+<br/>
+<code>🎯 Samsung SEED</code>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="70px"/>
+<br/><br/>
+<b>⚡ Turbo Mode</b>
+<br/><br/>
+<sub>-20% Dev Time</sub>
+<br/>
+<sub>Scalable Solutions</sub>
+<br/>
+<code>🚀 Full-Stack Pro</code>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="70px"/>
+<br/><br/>
+<b>🎓 Skill Upgrade</b>
+<br/><br/>
+<sub>GPA: 3.8/4.0</sub>
+<br/>
+<sub>MS @ Northeastern</sub>
+<br/>
+<code>📚 Knowledge +100</code>
+</td>
+</tr>
+</table>
+
+### 🏁 **Current Speed: Full Throttle! 🔥**
+
+```
+Current Position: 🏎️💨💨💨 ━━━━━━━━━━━━━▰━━━━ [75% Complete]
+Next Checkpoint: 🎯 Senior Software Engineer Role
+Final Goal: 🏆 Cloud Architecture Expert & Tech Lead
+```
+
+</div>
 
 ---
 
@@ -239,10 +355,6 @@ messaging: [SNS, SQS]
 - 🤝 Agile methodologies & Scrum
 
 </details>
-
----
-
-
 
 ---
 
@@ -470,13 +582,6 @@ class CurrentFocus:
             "🤖 AI-powered features integration"
         ]
         
-        self.teaching = [
-            "👨‍🏫 Web Development to 50+ students",
-            "💡 Modern JavaScript & React best practices",
-            "🎨 UI/UX design principles",
-            "🔧 Debugging & problem-solving techniques"
-        ]
-        
         self.goals_2025 = [
             "🎓 Complete MS with honors",
             "💼 Secure Software Engineer role at top tech company",
@@ -486,11 +591,11 @@ class CurrentFocus:
         ]
     
     def daily_routine(self):
-        return "Code ☕ + Learn 📚 + Build 🚀 + Teach 👨‍🏫 + Repeat 🔄"
+        return "Code ☕ + Learn 📚 + Build 🚀 + Repeat 🔄"
 
 me = CurrentFocus()
 print(me.daily_routine())
-# Output: "Code ☕ + Learn 📚 + Build 🚀 + Teach 👨‍🏫 + Repeat 🔄"
+# Output: "Code ☕ + Learn 📚 + Build 🚀 + Repeat 🔄"
 ```
 
 ---
@@ -532,10 +637,6 @@ print(me.daily_routine())
 </table>
 
 </div>
-
----
-
-
 
 ---
 
