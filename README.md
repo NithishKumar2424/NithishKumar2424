@@ -1,421 +1,549 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20Kumar%20K%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Cloud%20Architect%20|%20Teaching%20Assistant&descAlignY=51&descAlign=50"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=MS+in+Information+Systems+%40+Northeastern+University;Building+Scalable+Cloud+Solutions+%26+Beautiful+UIs;Passionate+about+Teaching+%26+Mentoring+Developers;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Dynamic Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=MS+in+Information+Systems+%40+Northeastern+University;Building+Scalable+Cloud+Solutions+%26+Beautiful+UIs;Passionate+about+Teaching+%26+Mentoring+Developers;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<!-- Social badges with animation -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/nithish-kumar-km">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nithish-kumar-km" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kuthandhallimanjun.n@northeastern.edu">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
   <a href="tel:+16177210107">
-    <img src="https://img.shields.io/badge/-Boston%2C%20MA-00C853?style=for-the-badge&logo=Google-Maps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/-Boston%2C%20MA-00C853?style=for-the-badge&logo=Google-Maps&logoColor=white"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=blue"/>
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=yellow"/>
 </p>
 
 </div>
 
 ---
 
-## 🎯 **Quick Facts About Me**
+## 🎯 **About Me - The Code Version**
 
 ```typescript
-class NithishKumar {
-    constructor() {
-        this.name = "Nithish Kumar K M";
-        this.location = "Boston, MA 🇺🇸";
-        this.education = {
-            current: "MS in Information Systems @ Northeastern",
-            gpa: "3.8/4.0",
-            graduation: "December 2026"
-        };
-        this.workExperience = [
-            "👨‍🏫 Teaching Assistant @ Northeastern University",
-            "💼 Senior Associate @ NTT Data",
-            "🔬 Software Engineer @ Samsung SEED Lab"
-        ];
-        this.superpowers = [
-            "☁️ Cloud Architecture (AWS Certified Brain)",
-            "🎨 UI/UX Design (Making pixels dance)",
-            "⚡ Full-Stack Development (Both sides of the force)",
-            "🤖 AI/ML Data Annotation (10K+ images tagged!)"
-        ];
-        this.currentFocus = "Building scalable, user-centric cloud applications";
-        this.funFact = "I can debug code faster than I can debug my life 😄";
-    }
-    
-    sayHi() {
-        console.log("Thanks for dropping by! Let's build something amazing together 🚀");
-    }
+interface Developer {
+    name: string;
+    location: string;
+    role: string[];
+    code: string[];
+    architecture: string[];
+    currentMission: string;
 }
 
-const me = new NithishKumar();
-me.sayHi();
+const nithish: Developer = {
+    name: "Nithish Kumar K M",
+    location: "Boston, MA 🇺🇸",
+    role: [
+        "👨‍🏫 Teaching Assistant @ Northeastern University",
+        "💼 Former Senior Associate @ NTT Data",
+        "🔬 Former Software Engineer @ Samsung SEED Lab"
+    ],
+    code: ["JavaScript", "Python", "Java", "C#", "C++", "SQL"],
+    architecture: ["AWS", "Docker", "Kubernetes", "Microservices", "REST APIs"],
+    currentMission: "Building scalable, secure cloud applications while mentoring the next generation of developers"
+};
+
+// My Journey
+const educationJourney = {
+    current: "🎓 MS in Information Systems @ Northeastern | GPA: 3.8/4.0",
+    graduation: "December 2026",
+    previous: "🎓 BE in Electronics & Communication @ CIT, Bangalore | GPA: 3.07/4.0"
+};
+
+// Fun Stats
+const stats = {
+    studentsImpacted: "50+ future developers 👨‍🎓",
+    imagesAnnotated: "10,000+ for AI/ML models 🤖",
+    performanceBoost: "15% system optimization @ NTT 🚀",
+    codeQuality: "20% faster development cycles ⚡",
+    funFact: "I debug code faster than I debug my life 😄"
+};
+
+console.log("Thanks for visiting! Let's build something amazing together 🚀");
 ```
+
+---
 
 <div align="center">
 
-## 🌟 **My Development Journey**
+## 🚀 **My Journey: Electronics → Software → Cloud → Teaching**
 
 </div>
 
 ```mermaid
-journey
-    title My Tech Adventure
-    section Education 🎓
-      Bachelor's in ECE: 3: Me
-      Started MS @ NEU: 5: Me
-      Teaching Assistant: 5: Me
-    section Professional 💼
-      Samsung SEED Lab: 4: Me
-      NTT Data: 5: Me
-      Open Source: 5: Me
-    section Skills 🚀
-      Frontend Master: 5: Me
-      Backend Wizard: 5: Me
-      Cloud Architect: 5: Me
-      UI/UX Designer: 4: Me
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1a1b27','primaryTextColor':'#58a6ff','primaryBorderColor':'#58a6ff','lineColor':'#58a6ff','secondaryColor':'#161b22','tertiaryColor':'#0d1117','background':'#0d1117','mainBkg':'#0d1117','secondBkg':'#161b22'}}}%%
+timeline
+    title 🎯 My Tech Evolution
+    2018-2022 : 🎓 Bachelor's in Electronics & Communication
+              : 🔧 Built IoT Accident Detection System
+              : 📡 Mastered embedded systems & sensors
+    2022-2023 : 💼 Joined Samsung SEED Lab
+              : 🤖 Annotated 10K+ images for AI training
+              : 📊 Improved ML model accuracy by 18%
+              : 🐍 Mastered Python & data annotation tools
+    2023-2024 : 🚀 Senior Associate @ NTT Data
+              : 💻 Built scalable .NET applications
+              : ⚡ Boosted system performance by 15%
+              : 🎨 Created reusable UI components
+    2024-Present : 🎓 MS @ Northeastern University
+                 : 👨‍🏫 Teaching Assistant (Web Dev & UX)
+                 : ☁️ Mastering AWS & Cloud Architecture
+                 : 🚀 Building full-stack MERN applications
 ```
 
 ---
 
 <div align="center">
 
-## 🔥 **Tech Arsenal**
-
-<details open>
-<summary><b>🎨 Frontend Magic</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-**Creating beautiful, responsive, and interactive user experiences** ✨
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Power</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-**Building robust, scalable APIs and microservices** 🚀
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps Mastery</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AWS Services:** EC2 • S3 • Lambda • RDS • CloudFormation • CloudWatch • IAM • API Gateway • SNS • DynamoDB
-
-**Automating everything and deploying with confidence** 🔧
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database Expertise</b></summary>
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Data modeling, optimization, and management** 📊
-
-</details>
-
-<details open>
-<summary><b>🎨 Design & Collaboration</b></summary>
-<br/>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-A60000?style=for-the-badge&logo=balsamiq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**From wireframes to production-ready designs** 🎯
-
-</details>
+## 🔥 **Tech Stack & Tools**
 
 </div>
 
----
+<details open>
+<summary><b>💻 Languages I Speak (to computers)</b></summary>
+<br/>
 
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=fff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=fff&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **Projects That Make Me Proud**
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🍔 **EatWell - Food Ordering Platform**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,cs,c,typescript,html,css,sass" />
+</p>
 
 ```javascript
-const impact = {
-    userExperience: "+35%",
-    performance: "+40%",
-    features: [
-        "🛒 Dynamic cart management",
-        "💳 Secure Stripe payments",
-        "📦 Real-time order tracking",
-        "🎨 Reusable UI components"
-    ]
+const languages = {
+    expert: ["JavaScript", "Python", "HTML/CSS"],
+    proficient: ["Java", "C#", "C++", "SQL"],
+    learning: ["TypeScript", "Go", "Rust"]
 };
 ```
 
-**Full-stack MERN masterpiece with seamless payment integration!**
+</details>
 
-[🔗 View Project](https://github.com/YOUR_USERNAME/eatwell) | [🚀 Live Demo](#)
+<details open>
+<summary><b>🎨 Frontend Development - Making Things Beautiful</b></summary>
+<br/>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind,jquery,figma,sass" />
+</p>
 
-### 🛍️ **Myntra E-Commerce Clone**
+**What I Build:**
+- ⚛️ Modern React applications with hooks & context
+- 🎨 Responsive designs that work on ALL devices
+- ✨ Smooth animations and interactive UIs
+- ♿ Accessible, user-friendly interfaces
+- 🎯 Component-based architecture
 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+**Stats:** 35% UX improvement | 25% dev efficiency boost
 
-```csharp
-var features = new[] {
-    "🔐 Authentication & Authorization",
-    "📝 Product Reviews & Ratings",
-    "💼 Comprehensive Admin Panel",
-    "🔄 Return Status Management",
-    "⭐ Wishlist & Cart System"
-};
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development - The Engine Room</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,dotnet,fastapi" />
+</p>
+
+**What I Do:**
+- 🔐 Secure authentication & authorization systems
+- 🚀 RESTful API design and implementation
+- 📊 Database modeling and optimization
+- ⚡ Performance tuning and caching strategies
+- 🔄 Microservices architecture
+
+**Stats:** 40% performance improvement | 20% faster development
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases - Where Data Lives</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,dynamodb" />
+</p>
+
+```sql
+SELECT * FROM skills 
+WHERE expertise IN ('MongoDB', 'PostgreSQL', 'MySQL')
+  AND experience > '2 years'
+  AND passion = 'HIGH';
 ```
 
-**Enterprise-grade e-commerce with 10+ features → 30% engagement boost!**
+**Expertise:**
+- 📊 Schema design & normalization
+- 🔍 Query optimization & indexing
+- 🔄 Data migration & seeding
+- 📈 Performance monitoring
+- 🔐 Security best practices
 
-[🔗 View Project](https://github.com/YOUR_USERNAME/myntra)
+</details>
 
-</td>
-</tr>
+<details open>
+<summary><b>☁️ Cloud & DevOps - Deploying at Scale</b></summary>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,linux,bash" />
+</p>
 
-### 💼 **Personal Portfolio Website**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-
-```css
-.portfolio {
-    theme: "dark/light toggle";
-    animations: "smooth & buttery";
-    responsiveness: 100%;
-    cross-browser: "compatible";
-    wow-factor: "maximum";
-}
+**AWS Services I Master:**
+```yaml
+compute: [EC2, Lambda, ECS]
+storage: [S3, EBS, EFS]
+database: [RDS, DynamoDB]
+networking: [VPC, Route53, CloudFront, API Gateway]
+devops: [CloudFormation, CloudWatch, IAM]
+messaging: [SNS, SQS]
 ```
 
-**Interactive showcase of my journey and skills with stunning animations!**
+**DevOps Superpowers:**
+- 🔄 CI/CD pipelines with GitHub Actions & Jenkins
+- 🐳 Containerization with Docker & orchestration with K8s
+- 🏗️ Infrastructure as Code with Terraform
+- 📊 Monitoring & logging with CloudWatch
+- 🔐 Security hardening & IAM policies
 
-[🔗 GitHub](https://github.com/YOUR_USERNAME/portfolio) | [🌐 Live Site](https://your-site.com)
+</details>
 
-</td>
-<td width="50%" valign="top">
+<details open>
+<summary><b>🎨 Design & Collaboration Tools</b></summary>
+<br/>
 
-### 🚗 **Accident Detection System**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman,visualstudio" />
+</p>
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/IoT-0066CC?style=flat&logo=internet-of-things&logoColor=white"/>
+**What I Use:**
+- 🎨 Figma & Balsamiq for wireframing
+- 🔧 VS Code as my main IDE
+- 📮 Postman for API testing
+- 🔀 Git & GitHub for version control
+- 🤝 Agile methodologies & Scrum
 
-```c
-// Real-time accident detection
-if (accident_detected()) {
-    get_gps_location();
-    send_alert_via_gsm();
-    notify_emergency_contacts();
-}
-```
-
-**IoT solution for road safety with GPS/GSM integration!**
-
-[🔗 View Project](https://github.com/YOUR_USERNAME/accident-detection)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 <div align="center">
 
-## 💼 **Professional Impact**
+## 📊 **GitHub Statistics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Featured Projects - My Digital Creations**
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/teacher.png" width="60px"/>
-<br/>
-<b>Teaching @ NEU</b>
-<br/>
-<code>50+ Students</code>
-<br/>
-<sub>Web Design & UX</sub>
+<td width="50%" valign="top">
+
+### 🍔 **EatWell - Full-Stack Food Ordering Platform**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+</p>
+
+**🎯 The Challenge:**  
+Build a complete food ordering system from scratch with real payments
+
+**✨ The Solution:**
+```javascript
+const features = {
+    frontend: "React + Bootstrap + Responsive Design",
+    backend: "Node.js + Express + MongoDB",
+    payments: "Stripe Integration",
+    realtime: "Order tracking & notifications"
+};
+```
+
+**📈 Impact:**
+- ✅ 35% improvement in user experience
+- ✅ 40% faster page load times
+- ✅ Seamless payment processing
+- ✅ Real-time order tracking
+
+**🔗 Links:**  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/eatwell)
+[![Live](https://img.shields.io/badge/Live-Visit_Site-green?style=flat-square&logo=vercel)](https://your-link.com)
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/speed.png" width="60px"/>
-<br/>
-<b>Performance</b>
-<br/>
-<code>+15% @ NTT Data</code>
-<br/>
-<sub>System Optimization</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"/>
-<br/>
-<b>AI Training</b>
-<br/>
-<code>10,000+ Images</code>
-<br/>
-<sub>Samsung SEED Lab</sub>
+<td width="50%" valign="top">
+
+### 🛍️ **Myntra E-Commerce Platform**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,bootstrap,visualstudio" />
+</p>
+
+**🎯 The Challenge:**  
+Create enterprise-grade e-commerce with admin capabilities
+
+**✨ The Solution:**
+```csharp
+var features = new List<string> {
+    "🔐 JWT Authentication",
+    "🛒 Advanced Cart System",
+    "⭐ Reviews & Ratings",
+    "📊 Admin Dashboard",
+    "💳 Payment Integration"
+};
+```
+
+**📈 Impact:**
+- ✅ 10+ core features implemented
+- ✅ 30% increase in user engagement
+- ✅ Comprehensive admin panel
+- ✅ Cross-browser compatibility
+
+**🔗 Links:**  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/myntra)
+
 </td>
 </tr>
+
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60px"/>
-<br/>
-<b>Development</b>
-<br/>
-<code>-20% Time</code>
-<br/>
-<sub>Scalable Solutions</sub>
+<td width="50%" valign="top">
+
+### 💼 **Interactive Portfolio Website**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+**🎯 The Challenge:**  
+Stand out from the crowd with a unique portfolio
+
+**✨ The Solution:**
+```css
+.portfolio {
+    design: "Modern & Minimalist";
+    features: "Dark/Light Theme Toggle";
+    animations: "Smooth & Eye-catching";
+    responsive: "100% Mobile-friendly";
+}
+```
+
+**📈 Highlights:**
+- ✅ Stunning visual design
+- ✅ Smooth page transitions
+- ✅ Interactive elements
+- ✅ Performance optimized
+
+**🔗 Links:**  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/portfolio)
+[![Live](https://img.shields.io/badge/Live-Visit_Site-green?style=flat-square&logo=vercel)](https://your-portfolio.com)
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/accuracy.png" width="60px"/>
-<br/>
-<b>ML Accuracy</b>
-<br/>
-<code>+18% Boost</code>
-<br/>
-<sub>Model Training</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="60px"/>
-<br/>
-<b>GPA</b>
-<br/>
-<code>3.8/4.0</code>
-<br/>
-<sub>MS @ Northeastern</sub>
+<td width="50%" valign="top">
+
+### 🚗 **IoT Accident Detection System**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+**🎯 The Challenge:**  
+Build a life-saving IoT solution for road safety
+
+**✨ The Solution:**
+```c
+void onAccidentDetected() {
+    captureGPSLocation();
+    sendSMSAlert();
+    notifyEmergencyServices();
+    saveToDatabase();
+}
+```
+
+**📈 Impact:**
+- ✅ Real-time accident detection
+- ✅ GPS location tracking
+- ✅ Automated emergency alerts
+- ✅ Low-cost hardware solution
+
+**🔗 Links:**  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/accident-detection)
+
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
 <div align="center">
 
-## 🎯 **Current Focus**
+## 💼 **Professional Impact & Achievements**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" width="80px"/>
+<br/><br/>
+<b>Teaching Excellence</b>
+<br/><br/>
+<code>50+ Students</code>
+<br/>
+<sub>Web Design & UX @ NEU</sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80px"/>
+<br/><br/>
+<b>Performance Boost</b>
+<br/><br/>
+<code>+15% @ NTT</code>
+<br/>
+<sub>System Optimization</sub>
+<br/>
+<sub>⚡ Lightning Fast</sub>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80px"/>
+<br/><br/>
+<b>AI/ML Training</b>
+<br/><br/>
+<code>10,000+ Images</code>
+<br/>
+<sub>Samsung SEED Lab</sub>
+<br/>
+<sub>🤖 ML Accuracy +18%</sub>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80px"/>
+<br/><br/>
+<b>Academic Excellence</b>
+<br/><br/>
+<code>GPA: 3.8/4.0</code>
+<br/>
+<sub>MS @ Northeastern</sub>
+<br/>
+<sub>🎯 Expected Dec 2026</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 **What I'm Up To Right Now**
 
 </div>
 
 ```python
-class CurrentlyWorkingOn:
+class CurrentFocus:
     def __init__(self):
-        self.learning = [
-            "🏗️ Advanced System Design & Architecture",
-            "🔐 AWS Security Best Practices",
-            "⚡ Performance Optimization Techniques",
-            "🎨 Advanced React Patterns & Hooks"
+        self.studying = [
+            "📚 Advanced Algorithms & System Design",
+            "☁️ AWS Solutions Architect Certification",
+            "🎨 Advanced React Patterns & Performance",
+            "🔐 Security Best Practices & DevSecOps"
         ]
         
         self.building = [
-            "☁️ Serverless applications with Lambda",
-            "🔄 CI/CD pipelines with GitHub Actions",
-            "📱 Responsive web applications",
+            "🚀 Serverless applications with AWS Lambda",
+            "🏗️ Scalable microservices architecture",
+            "📱 Progressive Web Applications (PWAs)",
             "🤖 AI-powered features integration"
         ]
         
         self.teaching = [
             "👨‍🏫 Web Development to 50+ students",
-            "💡 Best practices in code quality",
+            "💡 Modern JavaScript & React best practices",
             "🎨 UI/UX design principles",
-            "🚀 Modern frontend frameworks"
+            "🔧 Debugging & problem-solving techniques"
+        ]
+        
+        self.goals_2025 = [
+            "🎓 Complete MS with honors",
+            "💼 Secure Software Engineer role at top tech company",
+            "🌟 Contribute to major open-source projects",
+            "📝 Launch technical blog",
+            "🏆 Build 5 production-ready projects"
         ]
     
-    def goals_2025(self):
-        return [
-            "🎓 Complete MS degree with honors",
-            "💼 Land dream SDE role",
-            "📝 Contribute to major open-source projects",
-            "🌟 Build impactful side projects"
-        ]
+    def daily_routine(self):
+        return "Code ☕ + Learn 📚 + Build 🚀 + Teach 👨‍🏫 + Repeat 🔄"
 
-me = CurrentlyWorkingOn()
-print(f"Let's achieve: {me.goals_2025()}")
+me = CurrentFocus()
+print(me.daily_routine())
+# Output: "Code ☕ + Learn 📚 + Build 🚀 + Teach 👨‍🏫 + Repeat 🔄"
 ```
 
 ---
 
 <div align="center">
 
-## 🎨 **Contribution Snake**
+## 💡 **Technologies I'm Excited About**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="60px"/>
+<br/><br/>
+<b>Serverless Architecture</b>
+<br/>
+<sub>AWS Lambda, API Gateway</sub>
+<br/>
+<sub>Building scalable, cost-effective solutions</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60px"/>
+<br/><br/>
+<b>DevOps & CI/CD</b>
+<br/>
+<sub>Docker, Kubernetes, Terraform</sub>
+<br/>
+<sub>Automating everything!</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60px"/>
+<br/><br/>
+<b>Modern Web Apps</b>
+<br/>
+<sub>React, Next.js, TypeScript</sub>
+<br/>
+<sub>Creating amazing user experiences</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -423,14 +551,9 @@ print(f"Let's achieve: {me.goals_2025()}")
 
 <div align="center">
 
-## 📚 **Latest Blog Posts**
+## 📈 **Contribution Activity**
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable APIs with Node.js and Express](#)
-- ☁️ [AWS Lambda: Serverless Architecture Guide](#)
-- 🎨 [Modern UI/UX Design Principles](#)
-- 💻 [Full-Stack Development Best Practices](#)
-<!-- BLOG-POST-LIST:END -->
+[![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -438,9 +561,9 @@ print(f"Let's achieve: {me.goals_2025()}")
 
 <div align="center">
 
-## 💬 **Random Dev Quote**
+## 💬 **Developer Wisdom**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -448,29 +571,26 @@ print(f"Let's achieve: {me.goals_2025()}")
 
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate!**
+## 🤝 **Let's Connect & Build Together!**
 
-I'm always excited to discuss new projects, innovative ideas, or opportunities to create something amazing together!
+I'm always excited to collaborate on innovative projects, discuss new technologies, or help fellow developers!
 
-<a href="https://linkedin.com/in/nithish-kumar-km">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:kuthandhallimanjun.n@northeastern.edu">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-### 📍 **Boston, MA** | 📞 **617-721-0107**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-kumar-km)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 <br/>
 
-### "First, solve the problem. Then, write the code." – John Johnson
+### 📍 Boston, Massachusetts | 📞 617-721-0107
 
 <br/>
 
-**Thanks for visiting! Happy Coding! 🚀**
+**💭 "The best way to predict the future is to invent it." – Alan Kay**
+
+<br/>
+
+### Thanks for stopping by! Let's make the web a better place, one commit at a time! 🚀
 
 </div>
 
@@ -480,9 +600,5 @@ I'm always excited to discuss new projects, innovative ideas, or opportunities t
 ---
 
 <div align="center">
-
-### 🎵 **Currently Vibing To:**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
+<sub>⭐ Don't forget to star my repositories if you find them useful!</sub>
 </div>
