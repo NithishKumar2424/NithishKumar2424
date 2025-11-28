@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/nithish-kumar-km">
+  <a href="https://linkedin.com/in/nithishkumar-km">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kuthandhallimanjun.n@northeastern.edu">
@@ -22,13 +22,6 @@
   <a href="tel:+16177210107">
     <img src="https://img.shields.io/badge/-Boston%2C%20MA-00C853?style=for-the-badge&logo=Google-Maps&logoColor=white"/>
   </a>
-</p>
-
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=blue"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=yellow"/>
 </p>
 
 </div>
@@ -82,11 +75,30 @@ console.log("Thanks for visiting! Let's build something amazing together 🚀");
 
 <div align="center">
 
-## 🏁 **My Career Race: Electronics → Software → Full-Stack → Cloud Architect**
+## 🏎️ **PLAY MY CAREER RACE GAME!** 🏁
 
-### Click ▶️ PLAY to Start My Journey! 🏎️
+### 🎮 Experience my journey interactively - Race through my career milestones!
 
-</div>
+<a href="YOUR_GAME_URL_HERE">
+  <img src="https://img.shields.io/badge/🏁_PLAY_NOW-Career_Racing_Game-gold?style=for-the-badge&labelColor=purple&color=gold" alt="Play Career Race Game" />
+</a>
+
+**Controls:** Use ← → Arrow Keys to steer | ↑ to speed up | Race through 500km to complete my journey!
+
+### 🏆 **Race Milestones:**
+```
+🏁 START (2018) 
+   ↓ 50km  → 🎓 Electronics Engineering - IoT & Embedded Systems
+   ↓ 150km → 🤖 AI/ML Engineer @ Samsung - 10K+ Images Trained
+   ↓ 250km → 💻 Full-Stack Developer @ NTT Data - React + .NET
+   ↓ 350km → ☁️ Cloud Architect - AWS + DevOps Master  
+   ↓ 450km → 🎯 Software Engineer - Building at Scale
+🏆 FINISH - Journey Complete!
+```
+
+<details>
+<summary><b>📸 Game Preview (Click to see)</b></summary>
+<br/>
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF6B6B','secondaryColor':'#4ECDC4','tertiaryColor':'#FFE66D','primaryBorderColor':'#FF6B6B','lineColor':'#95E1D3','fontSize':'16px'}}}%%
@@ -106,6 +118,8 @@ graph LR
     style E fill:#9370DB,stroke:#9370DB,stroke-width:3px,color:#fff
     style FINISH fill:#FFD700,stroke:#FFD700,stroke-width:4px,color:#000
 ```
+
+</details>
 
 <div align="center">
 
