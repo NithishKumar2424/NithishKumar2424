@@ -79,7 +79,7 @@ console.log("Thanks for visiting! Let's build something amazing together 🚀");
 
 ### 🎮 Experience my journey interactively - Race through my career milestones!
 
-<a href="YOUR_GAME_URL_HERE">
+<a href="https://nithishkumar2424.github.io/career-racing-game/">
   <img src="https://img.shields.io/badge/🏁_PLAY_NOW-Career_Racing_Game-gold?style=for-the-badge&labelColor=purple&color=gold" alt="Play Career Race Game" />
 </a>
 
