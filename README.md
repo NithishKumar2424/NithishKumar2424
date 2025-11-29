@@ -87,19 +87,15 @@ console.log("Thanks for visiting! Let's build something amazing together 🚀");
 
 ### 🏆 **Race Milestones:**
 
-<div align="center">
-
-```
-🏁 START (2018) 
-   ↓ 50km  → 🎓 Electronics Engineering - IoT & Embedded Systems
-   ↓ 150km → 🤖 AI/ML Engineer @ Samsung - 10K+ Images Trained
-   ↓ 250km → 💻 Full-Stack Developer @ NTT Data - React + .NET
-   ↓ 350km → ☁️ Cloud Architect - AWS + DevOps Master  
-   ↓ 450km → 🎯 Software Engineer - Building at Scale
-🏆 FINISH - Journey Complete!
-```
-
-</div>
+<p align="center">
+🏁 <b>START (2018)</b><br/>
+↓ 50km  → 🎓 Electronics Engineering - IoT & Embedded Systems<br/>
+↓ 150km → 🤖 AI/ML Engineer @ Samsung - 10K+ Images Trained<br/>
+↓ 250km → 💻 Full-Stack Developer @ NTT Data - React + .NET<br/>
+↓ 350km → ☁️ Cloud Architect - AWS + DevOps Master<br/>
+↓ 450km → 🎯 Software Engineer - Building at Scale<br/>
+🏆 <b>FINISH - Journey Complete!</b>
+</p>
 
 <details>
 <summary><b>📸 Game Preview (Click to see)</b></summary>
@@ -239,11 +235,11 @@ graph LR
 
 ### 🏁 **Current Speed: Full Throttle! 🔥**
 
-```
-Current Position: 🏎️💨💨💨 ━━━━━━━━━━━━━▰━━━━ [75% Complete]
-Next Checkpoint: 🎯 Senior Software Engineer Role
-Final Goal: 🏆 Cloud Architecture Expert & Tech Lead
-```
+<p align="center">
+<b>Current Position:</b> 🏎️💨💨💨 ━━━━━━━━━━━━━▰━━━━ [75% Complete]<br/>
+<b>Next Checkpoint:</b> 🎯 Senior Software Engineer Role<br/>
+<b>Final Goal:</b> 🏆 Cloud Architecture Expert & Tech Lead
+</p>
 
 </div>
 
