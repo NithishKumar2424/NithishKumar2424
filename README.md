@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/nithishkumar-km">
+  <a href="https://linkedin.com/in/nithish-kumar-km">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kuthandhallimanjun.n@northeastern.edu">
@@ -120,6 +120,10 @@ graph LR
 ```
 
 </details>
+
+</div>
+
+---
 
 <div align="center">
 
