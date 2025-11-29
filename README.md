@@ -86,6 +86,9 @@ console.log("Thanks for visiting! Let's build something amazing together 🚀");
 **Controls:** Use ← → Arrow Keys to steer | ↑ to speed up | Race through 500km to complete my journey!
 
 ### 🏆 **Race Milestones:**
+
+<div align="center">
+
 ```
 🏁 START (2018) 
    ↓ 50km  → 🎓 Electronics Engineering - IoT & Embedded Systems
@@ -95,6 +98,8 @@ console.log("Thanks for visiting! Let's build something amazing together 🚀");
    ↓ 450km → 🎯 Software Engineer - Building at Scale
 🏆 FINISH - Journey Complete!
 ```
+
+</div>
 
 <details>
 <summary><b>📸 Game Preview (Click to see)</b></summary>
