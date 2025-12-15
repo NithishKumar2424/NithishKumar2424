@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithishkumar-km)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamnithish.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iam-nithish.github.io/myportfolio/me.html)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NithishKumar2424)
 
 </div>
@@ -414,8 +414,8 @@ I'm always excited to collaborate on innovative projects, discuss new technologi
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-kumar-km)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamnithish.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithishkumar-km)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iam-nithish.github.io/myportfolio/me.html)
 [![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
 [![Phone](https://img.shields.io/badge/Phone-617--721--0107-00C853?style=for-the-badge&logo=phone&logoColor=white)](tel:+16177210107)
 
