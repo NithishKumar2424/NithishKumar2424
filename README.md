@@ -1,48 +1,36 @@
 <div align="center">
 
 <!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NITHISH%20KUMAR&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20・%20Cloud%20Architect%20・%20Tech%20Enthusiast&descAlignY=53&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nithish%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cloud%20Architect%20|%20Problem%20Solver&descAlignY=55&descSize=18" />
 
-</div>
+### 👨‍💻 Building scalable solutions with modern tech | 🎓 MS @ Northeastern University | 📍 Boston, MA
 
-<!-- Terminal Style Introduction -->
-```bash
-$ whoami
-nithish-kumar
-
-$ cat about.txt
-📍 Location: Boston, Massachusetts
-🎓 Education: MS Information Systems @ Northeastern (GPA: 3.8)
-💼 Role: Teaching Assistant | Full-Stack Developer
-🚀 Focus: Building scalable cloud solutions
-⚡ Superpower: Turning coffee into code
-
-$ ls experience/
-senior-associate@ntt-data/
-software-engineer@samsung-seed-lab/
-teaching-assistant@northeastern/
-
-$ echo $CURRENT_MISSION
-"Crafting elegant solutions to complex problems with modern tech"
-```
-
-<!-- Social Links with Gradient -->
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/nithish-kumar-km)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://iamnithish.me)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:kuthandhallimanjun.n@northeastern.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/NithishKumar2424)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-kumar-km)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamnithish.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NithishKumar2424)
 
 </div>
 
 ---
 
-## 🎨 Tech Palette
+## 🚀 About Me
+
+**Hi! I'm Nithish Kumar**, a passionate Full-Stack Developer and Cloud Architect currently pursuing my MS in Information Systems at Northeastern University with a GPA of 3.8. I love building scalable, efficient applications and teaching the next generation of developers.
+
+**📍 Location:** Boston, Massachusetts  
+**🎓 Education:** MS in Information Systems @ Northeastern University (Expected Dec 2026)  
+**💼 Current Role:** Teaching Assistant - Web Development, Cloud Computing & UX Design  
+**🌟 Experience:** Senior Associate @ NTT Data | Software Engineer @ Samsung SEED Lab  
+**⚡ Passion:** Turning complex problems into elegant solutions
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Languages & Frameworks
+### Languages
 
 <table>
 <tr>
@@ -73,7 +61,7 @@ $ echo $CURRENT_MISSION
 </tr>
 </table>
 
-### 🎯 Frontend Arsenal
+### Frontend Development
 
 <table>
 <tr>
@@ -90,6 +78,14 @@ $ echo $CURRENT_MISSION
 <br>Redux
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
 <br>Tailwind
 </td>
@@ -104,7 +100,7 @@ $ echo $CURRENT_MISSION
 </tr>
 </table>
 
-### 🔧 Backend & Database
+### Backend Development
 
 <table>
 <tr>
@@ -133,6 +129,11 @@ $ echo $CURRENT_MISSION
 <br>FastAPI
 </td>
 </tr>
+</table>
+
+### Databases
+
+<table>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
@@ -161,7 +162,7 @@ $ echo $CURRENT_MISSION
 </tr>
 </table>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <table>
 <tr>
@@ -192,91 +193,77 @@ $ echo $CURRENT_MISSION
 </tr>
 </table>
 
+### Tools & Design
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+<br>NPM
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 💼 Professional Journey
+## 💼 Professional Experience
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎓 Teaching Assistant
-**Northeastern University** • *2024 - Present*
-
-```python
-role = {
-    "students": "50+",
-    "courses": ["Web Design", "Cloud Computing", "UX Design"],
-    "responsibilities": [
-        "Conducting lab sessions",
-        "Creating study materials",
-        "Mentoring students",
-        "Grading & feedback"
-    ]
-}
-```
-
-**Impact:** Helping shape the next generation of developers
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Teaching-Northeastern-D41B2C?style=for-the-badge&logoColor=white"/>
+<h3>🎓 Teaching Assistant</h3>
+<p><strong>Northeastern University</strong></p>
+<p><em>2024 - Present</em></p>
+<br>
+📚 Teaching 50+ students<br>
+💻 Web Design & Cloud Computing<br>
+🎨 User Experience Design<br>
+📝 Creating comprehensive study materials
 </td>
-<td width="50%">
-
-### 💻 Senior Associate
-**NTT Data** • *2023 - 2024*
-
-```javascript
-const achievements = {
-    tech: ['React', '.NET', 'SQL Server'],
-    performance: '+15% system optimization',
-    development: '-20% faster cycles',
-    architecture: 'Scalable full-stack solutions'
-};
-```
-
-**Impact:** Delivered high-performance enterprise applications
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Development-NTT_Data-0066B2?style=for-the-badge&logoColor=white"/>
+<h3>💻 Senior Associate</h3>
+<p><strong>NTT Data</strong></p>
+<p><em>2023 - 2024</em></p>
+<br>
+⚛️ Full-Stack with React & .NET<br>
+⚡ 15% Performance Improvement<br>
+🚀 20% Faster Development<br>
+🏗️ Scalable Solutions
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Software Engineer
-**Samsung SEED Lab** • *2022 - 2023*
-
-```javascript
-const aiWork = {
-    imagesAnnotated: '10,000+',
-    modelAccuracy: '+18%',
-    focus: 'Computer Vision & ML',
-    tech: ['Python', 'TensorFlow', 'Data Annotation']
-};
-```
-
-**Impact:** Enhanced AI model training and accuracy
-
-</td>
-<td width="50%">
-
-### 🎓 MS Student
-**Northeastern University** • *2024 - 2026*
-
-```python
-education = {
-    "degree": "MS in Information Systems",
-    "gpa": "3.8/4.0",
-    "focus": [
-        "Cloud Architecture",
-        "Full-Stack Development",
-        "System Design",
-        "Software Engineering"
-    ]
-}
-```
-
-**Expected Graduation:** December 2026
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AI/ML-Samsung-1428A0?style=for-the-badge&logoColor=white"/>
+<h3>🤖 Software Engineer</h3>
+<p><strong>Samsung SEED Lab</strong></p>
+<p><em>2022 - 2023</em></p>
+<br>
+🎯 10,000+ Images Annotated<br>
+📈 18% Model Accuracy Boost<br>
+🔬 Computer Vision Projects<br>
+🧠 AI/ML Training
 </td>
 </tr>
 </table>
@@ -291,7 +278,7 @@ education = {
 <tr>
 <td width="50%">
 
-<h3 align="center">🍔 EatWell Food Ordering</h3>
+### 🍔 EatWell - Food Ordering Platform
 
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -300,24 +287,20 @@ education = {
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" />
 </div>
 
-<br>
+Full-stack food ordering platform with real-time order tracking and secure payment processing.
 
-Full-stack food ordering platform with real-time tracking and payment integration.
+**Key Features:**
+- 🎨 35% improvement in user experience
+- 💳 Stripe payment integration
+- 📊 Real-time order tracking
+- 🎯 Admin dashboard for management
 
-**✨ Highlights:**
-- 35% UX improvement
-- Stripe payment gateway
-- Real-time order tracking
-- Admin dashboard
-
-<div align="center">
-<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" /></a>
-</div>
+<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🛍️ Myntra E-Commerce</h3>
+### 🛍️ Myntra E-Commerce Platform
 
 <div align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
@@ -326,26 +309,22 @@ Full-stack food ordering platform with real-time tracking and payment integratio
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </div>
 
-<br>
+Enterprise-grade e-commerce platform with comprehensive features and admin capabilities.
 
-Enterprise e-commerce with JWT auth and comprehensive admin features.
+**Key Features:**
+- 🔐 JWT Authentication system
+- 🛒 Advanced shopping cart
+- ⭐ Product reviews & ratings
+- 💳 Payment gateway integration
 
-**✨ Highlights:**
-- JWT authentication
-- Advanced cart system
-- Review & ratings
-- Payment integration
-
-<div align="center">
-<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" /></a>
-</div>
+<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3 align="center">☁️ AWS Serverless Architecture</h3>
+### ☁️ AWS Serverless Architecture
 
 <div align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
@@ -354,24 +333,20 @@ Enterprise e-commerce with JWT auth and comprehensive admin features.
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
 </div>
 
-<br>
+Scalable cloud infrastructure with infrastructure-as-code and serverless architecture.
 
-Scalable cloud infrastructure with IaC and serverless functions.
+**Key Features:**
+- 🚀 Auto-scaling EC2 instances
+- 📧 Lambda email verification
+- 🏗️ Terraform infrastructure
+- 🔄 CI/CD with GitHub Actions
 
-**✨ Highlights:**
-- Auto-scaling EC2
-- Lambda email verification
-- Terraform IaC
-- CI/CD with GitHub Actions
-
-<div align="center">
-<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" /></a>
-</div>
+<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🚗 IoT Accident Detection</h3>
+### 🚗 IoT Accident Detection System
 
 <div align="center">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
@@ -380,19 +355,15 @@ Scalable cloud infrastructure with IaC and serverless functions.
 <img src="https://img.shields.io/badge/IoT-00C9A7?style=flat&logo=iot&logoColor=white" />
 </div>
 
-<br>
+Real-time accident detection system with GPS tracking and automated emergency alerts.
 
-Real-time accident detection system with automated emergency alerts.
+**Key Features:**
+- 📍 GPS location tracking
+- 📱 Automated SMS alerts
+- 🚨 Emergency notifications
+- 💰 Low-cost hardware solution
 
-**✨ Highlights:**
-- GPS tracking
-- Automated SMS alerts
-- Real-time monitoring
-- Low-cost hardware
-
-<div align="center">
-<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" /></a>
-</div>
+<a href="https://github.com/NithishKumar2424"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -402,56 +373,17 @@ Real-time accident detection system with automated emergency alerts.
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 What I'm Currently Working On
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=NithishKumar2424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishKumar2424&theme=tokyonight&hide_border=true&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishKumar2424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishKumar2424&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=61dafb&line=61dafb&point=c9d1d9" width="49%" />
-
-</div>
+- ☁️ **Learning:** AWS Solutions Architect Certification & Advanced System Design
+- 🚀 **Building:** Serverless applications with AWS Lambda and microservices architecture
+- 🎓 **Teaching:** 50+ students web development, cloud computing, and UX design
+- 📝 **Preparing:** Comprehensive study materials and practice tests for cloud computing courses
+- 🏗️ **Developing:** Production-ready full-stack applications with modern tech stacks
 
 ---
 
-## 🎯 Current Mission
-
-```typescript
-interface CurrentGoals {
-    learning: string[];
-    building: string[];
-    targeting: string[];
-}
-
-const goals2025: CurrentGoals = {
-    learning: [
-        "AWS Solutions Architect Certification",
-        "Advanced System Design & Architecture",
-        "Kubernetes & Container Orchestration",
-        "DevSecOps & Security Best Practices"
-    ],
-    building: [
-        "Serverless microservices with AWS",
-        "Progressive Web Applications",
-        "AI-powered features & integrations",
-        "Open-source contributions"
-    ],
-    targeting: [
-        "Software Engineer at top tech companies",
-        "Complete MS with honors (Dec 2026)",
-        "Launch technical blog & tutorials",
-        "Build 5+ production-ready projects"
-    ]
-};
-
-console.log("🚀 Always coding, always learning, always growing!");
-```
-
----
-
-## 🏆 Achievement Unlocked
+## 🏆 Achievements & Impact
 
 <div align="center">
 
@@ -465,18 +397,18 @@ console.log("🚀 Always coding, always learning, always growing!");
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Connect!
 
 <div align="center">
 
-I'm always excited to collaborate on innovative projects, discuss new technologies, or help fellow developers!
+I'm always excited to collaborate on innovative projects, discuss new technologies, or help fellow developers. Feel free to reach out!
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-kumar-km)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamnithish.me)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
-[![Phone](https://img.shields.io/badge/Call-617--721--0107-00C853?style=for-the-badge&logo=phone&logoColor=white)](tel:+16177210107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-kumar-km)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamnithish.me)
+[![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
+[![Phone](https://img.shields.io/badge/Phone-617--721--0107-00C853?style=for-the-badge&logo=phone&logoColor=white)](tel:+16177210107)
 
 <br>
 
@@ -484,15 +416,17 @@ I'm always excited to collaborate on innovative projects, discuss new technologi
 
 <br>
 
-### *"First, solve the problem. Then, write the code."*
+### *"First, solve the problem. Then, write the code."* – John Johnson
 
 <br>
 
-**⭐ Thanks for visiting! Star my repos if you find them useful ⭐**
+⭐ **Thanks for visiting! Star my repositories if you find them useful!** ⭐
 
 </div>
 
 <br>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
