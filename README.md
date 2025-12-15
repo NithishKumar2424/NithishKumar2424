@@ -232,38 +232,47 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Teaching-Northeastern-D41B2C?style=for-the-badge&logoColor=white"/>
-<h3>🎓 Teaching Assistant</h3>
-<p><strong>Northeastern University</strong></p>
-<p><em>2024 - Present</em></p>
-<br>
-📚 Teaching 50+ students<br>
-💻 Web Design & Cloud Computing<br>
-🎨 User Experience Design<br>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/TEACHING-NORTHEASTERN-D41B2C?style=flat&logoColor=white"/> 
+
+### 🎓 Teaching Assistant
+**Northeastern University**  
+*2024 - Present*
+
+📚 Teaching 50+ students  
+💻 Web Design & Cloud Computing  
+🎨 User Experience Design  
 📝 Creating comprehensive study materials
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Development-NTT_Data-0066B2?style=for-the-badge&logoColor=white"/>
-<h3>💻 Senior Associate</h3>
-<p><strong>NTT Data</strong></p>
-<p><em>2023 - 2024</em></p>
-<br>
-⚛️ Full-Stack with React & .NET<br>
-⚡ 15% Performance Improvement<br>
-🚀 20% Faster Development<br>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/DEVELOPMENT-NTT_DATA-0066B2?style=flat&logoColor=white"/>
+
+### 💻 Senior Associate
+**NTT Data**  
+*2023 - 2024*
+
+⚛️ Full-Stack with React & .NET  
+⚡ 15% Performance Improvement  
+🚀 20% Faster Development  
 🏗️ Scalable Solutions
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AI/ML-Samsung-1428A0?style=for-the-badge&logoColor=white"/>
-<h3>🤖 Software Engineer</h3>
-<p><strong>Samsung SEED Lab</strong></p>
-<p><em>2022 - 2023</em></p>
-<br>
-🎯 10,000+ Images Annotated<br>
-📈 18% Model Accuracy Boost<br>
-🔬 Computer Vision Projects<br>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/AI/ML-SAMSUNG-1428A0?style=flat&logoColor=white"/>
+
+### 🤖 Software Engineer
+**Samsung SEED Lab**  
+*2022 - 2023*
+
+🎯 10,000+ Images Annotated  
+📈 18% Model Accuracy Boost  
+🔬 Computer Vision Projects  
 🧠 AI/ML Training
+
 </td>
 </tr>
 </table>
