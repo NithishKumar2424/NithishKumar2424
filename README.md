@@ -415,7 +415,7 @@ I'm always excited to collaborate on innovative projects, discuss new technologi
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithishkumar-km)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iam-nithish.github.io/myportfolio/me.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iamnithish.me/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuthandhallimanjun.n@northeastern.edu)
 [![Phone](https://img.shields.io/badge/Phone-617--721--0107-00C853?style=for-the-badge&logo=phone&logoColor=white)](tel:+16177210107)
 
